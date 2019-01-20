@@ -1,6 +1,9 @@
 *.pyc
 __pycache__
 staticfiles
+ecomm
+heroku
 herokuenv
+pcenv
 ysenv
 *.json
